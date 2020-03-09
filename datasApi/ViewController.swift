@@ -12,8 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("challa bhargava  ")
-        print("image to data or from data entiran")
+        
     }
 
 
